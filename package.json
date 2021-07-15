@@ -66,7 +66,7 @@
     "async": "^3.1.1",
     "bcrypt": "^5.0.1",
     "compression": "^1.7.4",
-    "connect-session-knex": "^2.0.0",
+    "connect-session-knex": "^2.1.0",
     "cookie-parser": "^1.4.5",
     "cookie-session": "^2.0.0-rc.1",
     "cors": "^2.8.5",

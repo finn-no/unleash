@@ -1657,7 +1657,7 @@ confusing-browser-globals@^1.0.10:
   resolved "https://registry.yarnpkg.com/confusing-browser-globals/-/confusing-browser-globals-1.0.10.tgz#30d1e7f3d1b882b25ec4933d1d1adac353d20a59"
   integrity sha512-gNld/3lySHwuhaVluJUKLePYirM3QNCKzVxqAdhJII9/WXKVX5PURzMVJspS1jTslSqjeuG4KMVTSouit5YPHA==
 
-connect-session-knex@^2.0.0:
+connect-session-knex@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/connect-session-knex/-/connect-session-knex-2.1.0.tgz#7f1e32594d37f7a1ad24e6dee97d8f2d9799695e"
   integrity sha512-6xHoDajVWxwByaq6UjfU+qGE89Nurajek4JsxeajtXscr8xznzbsIp+Q/3FKh3/2smfgoSeY+93+Gn+3ZXQVDQ==
